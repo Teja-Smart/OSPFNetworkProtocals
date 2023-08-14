@@ -1,0 +1,110 @@
+Routing Table for Node No. 4 at Time 0
+Destination|           Path           | Cost  
+1   No path     No Path  
+2   No path     No Path  
+3   No path     No Path  
+5   No path     No Path  
+6   No path     No Path  
+7   No path     No Path  
+8   No path     No Path  
+9   No path     No Path  
+10   No path     No Path  
+Routing Table for Node No. 4 at Time 3.0
+Destination|           Path           | Cost  
+1  4-1  13
+2  4-2  11
+3  4-7-3  15
+5  4-2-5  19
+6  4-6  3
+7  4-7  6
+8  4-7-8  10
+9  4-7-9  12
+10  4-7-9-10  22
+Routing Table for Node No. 4 at Time 6.0
+Destination|           Path           | Cost  
+1  4-1  17
+2  4-2  12
+3  4-7-3  11
+5  4-2-5  20
+6  4-6  3
+7  4-7  3
+8  4-7-8  7
+9  4-7-9  9
+10  4-7-9-10  22
+Routing Table for Node No. 4 at Time 9.0
+Destination|           Path           | Cost  
+1  4-1  17
+2  4-2  12
+3  4-6-7-3  14
+5  4-2-5  20
+6  4-6  3
+7  4-6-7  7
+8  4-6-7-8  11
+9  4-6-7-9  12
+10  4-6-7-9-10  21
+Routing Table for Node No. 4 at Time 12.0
+Destination|           Path           | Cost  
+1  4-1  20
+2  4-2  12
+3  4-6-7-3  14
+5  4-2-5  20
+6  4-6  3
+7  4-6-7  7
+8  4-6-7-8  9
+9  4-6-7-9  15
+10  4-6-7-9-10  28
+Routing Table for Node No. 4 at Time 15.0
+Destination|           Path           | Cost  
+1  4-1  17
+2  4-2  11
+3  4-7-3  15
+5  4-2-5  19
+6  4-6  3
+7  4-7  7
+8  4-7-8  11
+9  4-7-9  12
+10  4-7-9-10  22
+Routing Table for Node No. 4 at Time 18.0
+Destination|           Path           | Cost  
+1  4-1  10
+2  4-2  11
+3  4-6-7-3  11
+5  4-2-5  19
+6  4-6  3
+7  4-6-7  7
+8  4-6-7-8  10
+9  4-6-7-9  12
+10  4-6-7-9-10  23
+Routing Table for Node No. 4 at Time 21.0
+Destination|           Path           | Cost  
+1  4-1  8
+2  4-2  12
+3  4-7-3  14
+5  4-2-5  20
+6  4-6  3
+7  4-7  4
+8  4-7-8  6
+9  4-7-9  9
+10  4-7-9-10  19
+Routing Table for Node No. 4 at Time 24.0
+Destination|           Path           | Cost  
+1  4-1  16
+2  4-2  11
+3  4-7-3  15
+5  4-2-5  19
+6  4-6  3
+7  4-7  7
+8  4-7-8  9
+9  4-7-9  12
+10  4-2-5-10  22
+Routing Table for Node No. 4 at Time 27.0
+Destination|           Path           | Cost  
+1  4-1  12
+2  4-2  12
+3  4-6-7-3  16
+5  4-2-5  20
+6  4-6  3
+7  4-6-7  7
+8  4-6-7-8  10
+9  4-6-7-9  11
+10  4-6-7-9-10  25

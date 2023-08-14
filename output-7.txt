@@ -1,0 +1,110 @@
+Routing Table for Node No. 7 at Time 0
+Destination|           Path           | Cost  
+1   No path     No Path  
+2   No path     No Path  
+3   No path     No Path  
+4   No path     No Path  
+5   No path     No Path  
+6   No path     No Path  
+8   No path     No Path  
+9   No path     No Path  
+10   No path     No Path  
+Routing Table for Node No. 7 at Time 3.0
+Destination|           Path           | Cost  
+1  7-3-1  13
+2  7-6-2  18
+3  7-3  4
+4  7-6-4  7
+5  7-9-10-5  20
+6  7-6  4
+8  7-8  2
+9  7-9  5
+10  7-9-10  15
+Routing Table for Node No. 7 at Time 6.0
+Destination|           Path           | Cost  
+1  7-3-1  14
+2  7-6-2  16
+3  7-3  5
+4  7-6-4  7
+5  7-9-10-5  23
+6  7-6  4
+8  7-8  2
+9  7-9  4
+10  7-9-10  17
+Routing Table for Node No. 7 at Time 9.0
+Destination|           Path           | Cost  
+1  7-6-4-1  14
+2  7-6-4-2  19
+3  7-3  9
+4  7-6-4  7
+5  7-9-10-5  22
+6  7-6  4
+8  7-8  4
+9  7-9  7
+10  7-9-10  16
+Routing Table for Node No. 7 at Time 12.0
+Destination|           Path           | Cost  
+1  7-3-1  16
+2  7-4-2  15
+3  7-3  7
+4  7-4  3
+5  7-3-5  16
+6  7-6  4
+8  7-8  2
+9  7-9  8
+10  7-9-10  21
+Routing Table for Node No. 7 at Time 15.0
+Destination|           Path           | Cost  
+1  7-3-1  14
+2  7-4-2  16
+3  7-3  4
+4  7-4  4
+5  7-4-2-5  24
+6  7-6  4
+8  7-8  4
+9  7-9  7
+10  7-9-10  17
+Routing Table for Node No. 7 at Time 18.0
+Destination|           Path           | Cost  
+1  7-3-1  16
+2  7-6-2  18
+3  7-3  6
+4  7-6-4  7
+5  7-9-10-5  22
+6  7-6  4
+8  7-8  3
+9  7-9  7
+10  7-9-10  18
+Routing Table for Node No. 7 at Time 21.0
+Destination|           Path           | Cost  
+1  7-4-1  13
+2  7-4-2  17
+3  7-3  6
+4  7-4  5
+5  7-3-5  13
+6  7-6  4
+8  7-8  2
+9  7-9  6
+10  7-9-10  16
+Routing Table for Node No. 7 at Time 24.0
+Destination|           Path           | Cost  
+1  7-6-4-1  14
+2  7-6-2  15
+3  7-3  7
+4  7-6-4  7
+5  7-6-2-5  23
+6  7-6  4
+8  7-8  4
+9  7-9  5
+10  7-9-10  19
+Routing Table for Node No. 7 at Time 27.0
+Destination|           Path           | Cost  
+1  7-3-1  12
+2  7-4-2  15
+3  7-3  4
+4  7-4  3
+5  7-4-2-5  23
+6  7-6  4
+8  7-8  4
+9  7-9  4
+10  7-9-10  18

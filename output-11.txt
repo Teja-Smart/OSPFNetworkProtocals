@@ -1,0 +1,2 @@
+Routing Table for Node No. 11 at Time 0
+Destination|           Path           | Cost  

@@ -1,0 +1,110 @@
+Routing Table for Node No. 6 at Time 0
+Destination|           Path           | Cost  
+1   No path     No Path  
+2   No path     No Path  
+3   No path     No Path  
+4   No path     No Path  
+5   No path     No Path  
+7   No path     No Path  
+8   No path     No Path  
+9   No path     No Path  
+10   No path     No Path  
+Routing Table for Node No. 6 at Time 3.0
+Destination|           Path           | Cost  
+1  6-4-1  21
+2  6-4-2  15
+3  6-7-3  13
+4  6-4  3
+5  6-4-2-5  23
+7  6-7  4
+8  6-8  8
+9  6-7-9  10
+10  6-7-9-10  20
+Routing Table for Node No. 6 at Time 6.0
+Destination|           Path           | Cost  
+1  6-4-1  15
+2  6-4-2  15
+3  6-7-3  12
+4  6-4  3
+5  6-4-2-5  23
+7  6-7  4
+8  6-7-8  8
+9  6-7-9  10
+10  6-7-9-10  23
+Routing Table for Node No. 6 at Time 9.0
+Destination|           Path           | Cost  
+1  6-4-1  10
+2  6-2  13
+3  6-7-3  11
+4  6-4  3
+5  6-2-5  21
+7  6-7  4
+8  6-7-8  8
+9  6-7-9  9
+10  6-7-9-10  18
+Routing Table for Node No. 6 at Time 12.0
+Destination|           Path           | Cost  
+1  6-4-1  18
+2  6-2  11
+3  6-7-3  11
+4  6-4  3
+5  6-2-5  19
+7  6-7  4
+8  6-7-8  6
+9  6-7-9  12
+10  6-7-9-10  25
+Routing Table for Node No. 6 at Time 15.0
+Destination|           Path           | Cost  
+1  6-4-1  14
+2  6-2  12
+3  6-7-3  12
+4  6-4  3
+5  6-2-5  20
+7  6-7  4
+8  6-7-8  8
+9  6-7-9  9
+10  6-7-9-10  19
+Routing Table for Node No. 6 at Time 18.0
+Destination|           Path           | Cost  
+1  6-4-1  13
+2  6-2  14
+3  6-7-3  8
+4  6-4  3
+5  6-2-5  22
+7  6-7  4
+8  6-7-8  7
+9  6-7-9  9
+10  6-7-9-10  20
+Routing Table for Node No. 6 at Time 21.0
+Destination|           Path           | Cost  
+1  6-4-1  11
+2  6-2  15
+3  6-7-3  14
+4  6-4  3
+5  6-7-3-5  21
+7  6-7  4
+8  6-7-8  6
+9  6-7-9  9
+10  6-7-9-10  19
+Routing Table for Node No. 6 at Time 24.0
+Destination|           Path           | Cost  
+1  6-4-1  10
+2  6-4-2  15
+3  6-7-3  12
+4  6-4  3
+5  6-4-2-5  23
+7  6-7  4
+8  6-7-8  6
+9  6-7-9  9
+10  6-7-9-10  23
+Routing Table for Node No. 6 at Time 27.0
+Destination|           Path           | Cost  
+1  6-4-1  20
+2  6-2  12
+3  6-7-3  13
+4  6-4  3
+5  6-2-5  20
+7  6-7  4
+8  6-7-8  7
+9  6-7-9  8
+10  6-7-9-10  22

@@ -1,0 +1,110 @@
+Routing Table for Node No. 2 at Time 0
+Destination|           Path           | Cost  
+1   No path     No Path  
+3   No path     No Path  
+4   No path     No Path  
+5   No path     No Path  
+6   No path     No Path  
+7   No path     No Path  
+8   No path     No Path  
+9   No path     No Path  
+10   No path     No Path  
+Routing Table for Node No. 2 at Time 3.0
+Destination|           Path           | Cost  
+1  2-4-1  30
+3  2-4-7-3  24
+4  2-4  12
+5  2-5  8
+6  2-4-6  15
+7  2-4-7  15
+8  2-4-7-8  19
+9  2-5-10-9  20
+10  2-5-10  11
+Routing Table for Node No. 2 at Time 6.0
+Destination|           Path           | Cost  
+1  2-4-1  23
+3  2-5-3  23
+4  2-4  11
+5  2-5  8
+6  2-4-6  14
+7  2-4-7  15
+8  2-4-7-8  19
+9  2-4-7-9  21
+10  2-5-10  16
+Routing Table for Node No. 2 at Time 9.0
+Destination|           Path           | Cost  
+1  2-4-1  18
+3  2-4-7-3  21
+4  2-4  11
+5  2-5  8
+6  2-4-6  14
+7  2-4-7  14
+8  2-4-7-8  18
+9  2-4-7-9  19
+10  2-5-10  16
+Routing Table for Node No. 2 at Time 12.0
+Destination|           Path           | Cost  
+1  2-4-1  27
+3  2-6-7-3  21
+4  2-4  12
+5  2-5  8
+6  2-6  10
+7  2-6-7  14
+8  2-6-7-8  16
+9  2-6-7-9  22
+10  2-5-10  16
+Routing Table for Node No. 2 at Time 15.0
+Destination|           Path           | Cost  
+1  2-4-1  22
+3  2-4-6-7-3  26
+4  2-4  11
+5  2-5  8
+6  2-4-6  14
+7  2-4-6-7  18
+8  2-4-6-7-8  22
+9  2-5-10-9  22
+10  2-5-10  13
+Routing Table for Node No. 2 at Time 18.0
+Destination|           Path           | Cost  
+1  2-4-1  22
+3  2-4-7-3  20
+4  2-4  12
+5  2-5  8
+6  2-4-6  15
+7  2-4-7  16
+8  2-4-7-8  19
+9  2-4-7-9  21
+10  2-5-10  16
+Routing Table for Node No. 2 at Time 21.0
+Destination|           Path           | Cost  
+1  2-4-1  26
+3  2-4-7-3  28
+4  2-4  11
+5  2-5  8
+6  2-6  14
+7  2-4-7  18
+8  2-4-7-8  20
+9  2-4-7-9  23
+10  2-5-10  14
+Routing Table for Node No. 2 at Time 24.0
+Destination|           Path           | Cost  
+1  2-4-1  18
+3  2-5-3  17
+4  2-4  11
+5  2-5  8
+6  2-4-6  14
+7  2-4-7  14
+8  2-4-7-8  16
+9  2-4-7-9  19
+10  2-5-10  11
+Routing Table for Node No. 2 at Time 27.0
+Destination|           Path           | Cost  
+1  2-4-1  28
+3  2-4-7-3  23
+4  2-4  11
+5  2-5  8
+6  2-4-6  14
+7  2-4-7  14
+8  2-4-7-8  17
+9  2-4-7-9  18
+10  2-5-10  15

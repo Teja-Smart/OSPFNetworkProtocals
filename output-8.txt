@@ -1,0 +1,110 @@
+Routing Table for Node No. 8 at Time 0
+Destination|           Path           | Cost  
+1   No path     No Path  
+2   No path     No Path  
+3   No path     No Path  
+4   No path     No Path  
+5   No path     No Path  
+6   No path     No Path  
+7   No path     No Path  
+9   No path     No Path  
+10   No path     No Path  
+Routing Table for Node No. 8 at Time 3.0
+Destination|           Path           | Cost  
+1  8-7-3-1  20
+2  8-7-6-2  20
+3  8-7-3  11
+4  8-7-4  9
+5  8-7-9-10-5  23
+6  8-7-6  6
+7  8-7  2
+9  8-7-9  8
+10  8-7-9-10  18
+Routing Table for Node No. 8 at Time 6.0
+Destination|           Path           | Cost  
+1  8-7-3-1  21
+2  8-6-2  20
+3  8-7-3  12
+4  8-6-4  11
+5  8-6-2-5  28
+6  8-6  8
+7  8-7  4
+9  8-7-9  10
+10  8-7-9-10  23
+Routing Table for Node No. 8 at Time 9.0
+Destination|           Path           | Cost  
+1  8-7-4-1  16
+2  8-7-4-2  21
+3  8-7-3  9
+4  8-7-4  9
+5  8-7-9-10-5  22
+6  8-7-6  6
+7  8-7  2
+9  8-7-9  7
+10  8-7-9-10  16
+Routing Table for Node No. 8 at Time 12.0
+Destination|           Path           | Cost  
+1  8-7-3-1  20
+2  8-7-4-2  19
+3  8-7-3  11
+4  8-7-4  7
+5  8-7-3-5  20
+6  8-6  8
+7  8-7  4
+9  8-7-9  12
+10  8-7-9-10  25
+Routing Table for Node No. 8 at Time 15.0
+Destination|           Path           | Cost  
+1  8-7-3-1  16
+2  8-7-4-2  18
+3  8-7-3  6
+4  8-7-4  6
+5  8-7-4-2-5  26
+6  8-7-6  6
+7  8-7  2
+9  8-7-9  9
+10  8-7-9-10  19
+Routing Table for Node No. 8 at Time 18.0
+Destination|           Path           | Cost  
+1  8-7-3-1  16
+2  8-7-6-2  20
+3  8-7-3  6
+4  8-7-4  9
+5  8-7-9-10-5  22
+6  8-7-6  6
+7  8-7  2
+9  8-7-9  7
+10  8-7-9-10  18
+Routing Table for Node No. 8 at Time 21.0
+Destination|           Path           | Cost  
+1  8-7-4-1  16
+2  8-7-4-2  20
+3  8-7-3  14
+4  8-7-4  8
+5  8-7-3-5  21
+6  8-6  8
+7  8-7  4
+9  8-7-9  9
+10  8-7-9-10  19
+Routing Table for Node No. 8 at Time 24.0
+Destination|           Path           | Cost  
+1  8-7-4-1  12
+2  8-7-4-2  17
+3  8-7-3  10
+4  8-7-4  5
+5  8-7-4-2-5  25
+6  8-7-6  6
+7  8-7  2
+9  8-7-9  7
+10  8-7-9-10  21
+Routing Table for Node No. 8 at Time 27.0
+Destination|           Path           | Cost  
+1  8-7-3-1  19
+2  8-7-4-2  17
+3  8-7-3  11
+4  8-7-4  5
+5  8-7-4-2-5  25
+6  8-7-6  6
+7  8-7  2
+9  8-7-9  6
+10  8-7-9-10  20
